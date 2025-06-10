@@ -38,6 +38,7 @@ https://github.com/upb-lea/electricgrid.jl,upb-lea,False,37,5,Julia,mit,2021-12-
 https://github.com/btu-enerecon/em.power-invest,BTU-EnerEcon,False,1,0,GAMS,mit,2021-12-02T12:24:05.000Z,2023-09-07T16:47:10.000Z,,,,,
 https://github.com/nrel/emerge,NREL,False,15,13,Python,bsd-3-clause,2020-03-11T19:45:05.000Z,2025-05-13T11:21:37.000Z,0.5,5,95.0,2.0,2024-06-05
 https://github.com/emlab/emlab-generation,EMLab,False,24,67,Java,,2012-11-26T12:27:08.000Z,2025-04-04T14:11:38.000Z,,,,,
+https://github.com/emma-model/emma,emma-model,False,18,1,Jupyter Notebook,other,2020-06-26T10:52:12.000Z,2024-12-23T03:02:33.000Z,,,,,
 https://github.com/philipphaertel/emprise,philipphaertel,False,2,0,Python,gpl-3.0,2021-04-26T10:40:57.000Z,2025-03-13T08:16:37.000Z,,,,,
 https://github.com/rebase-energy/enflow,rebase-energy,False,53,3,Jupyter Notebook,mit,2024-01-09T20:16:08.000Z,2025-06-04T06:43:20.000Z,0.4933333333333333,4,20.0,0.0,2025-03-23
 https://github.com/energyinnovation/eps-us,EnergyInnovation,False,22,7,Python,gpl-3.0,2019-10-19T03:02:43.000Z,2025-06-01T18:28:02.000Z,0.643717080511663,12,,,
@@ -46,7 +47,6 @@ https://github.com/adgefficiency/energy-py-linear,ADGEfficiency,False,95,28,Pyth
 https://github.com/akkudoktor-eos/eos,Akkudoktor-EOS,False,1316,102,Python,other,2024-02-16T11:13:56.000Z,2025-06-03T11:31:52.000Z,0.5152439024390244,19,,,
 https://github.com/quintel/etengine,quintel,False,16,7,Ruby,mit,2011-05-03T08:55:40.000Z,2025-06-05T11:28:59.000Z,0.639240506329114,49,,,
 https://github.com/energymodelsx/energymodelsbase.jl,EnergyModelsX,False,11,0,Julia,mit,2024-01-25T12:44:05.000Z,2025-05-16T06:21:02.000Z,,,12.0,0.0,2025-01-01
-https://github.com/optimal2050/energyrt,optimal2050,False,23,7,R,agpl-3.0,2016-03-17T16:08:29.000Z,2024-11-29T12:03:38.000Z,0.2675736961451247,7,,,
 https://github.com/energyscope/energyscope,energyscope,False,30,22,NMODL,apache-2.0,2019-05-07T12:30:36.000Z,2025-04-28T13:55:57.000Z,,,,,
 https://github.com/dgusain1/energysim,dgusain1,False,2,3,Python,,2019-12-06T10:31:09.000Z,2024-06-25T07:51:14.000Z,,,317.0,1.0,2021-09-23
 https://github.com/behrangshirizadeh/eoles_elecres,BehrangShirizadeh,False,26,9,GAMS,,2018-02-02T08:46:34.000Z,2025-02-15T19:53:17.000Z,,,,,
@@ -55,19 +55,19 @@ https://github.com/nrel-distribution-suites/erad,NREL-Distribution-Suites,False,
 https://github.com/erf-model/erf,erf-model,False,36,49,C++,other,2020-10-21T21:05:22.000Z,2025-06-04T00:53:49.000Z,0.660842433697348,65,,,
 https://github.com/energytransition/esdl,EnergyTransition,False,14,6,Shell,apache-2.0,2018-06-08T11:40:18.000Z,2025-05-09T10:02:52.000Z,0.6260869565217391,9,,,
 https://github.com/quintel/etmodel,quintel,False,37,14,Ruby,mit,2011-05-03T08:55:13.000Z,2025-06-05T11:59:35.000Z,0.763473731884058,69,,,
-https://github.com/pnnl/exago,pnnl,False,79,12,C++,other,2023-08-02T21:05:34.000Z,2025-05-05T15:41:04.000Z,0.5874035989717223,30,0.0,0.0,2023-10-25
-https://github.com/tum-ewk/ficus,tum-ewk,False,11,10,Python,gpl-3.0,2015-09-07T14:14:57.000Z,2023-09-07T08:52:12.000Z,,,,,
+https://gitlab.com/fame-framework/fame-core,fame-framework,False,4,1,,other,2020-03-23T10:55:08.027Z,2025-04-25T12:37:28.867Z,,,0.0,3.0,2025-04-05
+https://github.com/yabata/ficus,yabata,False,7,3,Python,gpl-3.0,2017-12-07T06:45:58.000Z,2024-08-19T12:38:16.000Z,,,,,
 https://github.com/fzj-iek3-vsa/fine,FZJ-IEK3-VSA,False,78,46,Python,other,2018-07-02T14:48:55.000Z,2025-05-29T10:53:26.000Z,0.7883116883116883,48,793.0,2.0,2025-01-09
-https://github.com/flexigis/flexigis,FlexiGIS,False,23,8,Python,,2019-12-02T08:47:33.000Z,2025-05-13T14:04:07.000Z,0.504,5,0.0,0.0,2020-07-22
 https://github.com/electa-git/flexplan.jl,Electa-Git,False,21,1,Julia,bsd-3-clause,2020-09-08T11:09:37.000Z,2024-11-30T03:37:17.000Z,0.29401993355481726,13,7.0,0.0,2024-07-08
 https://github.com/flixopt/flixopt,flixOpt,False,10,4,Python,mit,2022-09-23T09:58:32.000Z,2025-05-08T16:23:26.000Z,,,177.0,0.0,2025-05-08
 https://github.com/sp-etx/friendlysam,sp-etx,False,2,2,Python,,2014-12-09T11:58:58.000Z,2018-01-03T09:51:21.000Z,,,49.0,2.0,2015-06-15
 https://github.com/nrel/gear-scoup,NREL,False,2,4,MATLAB,,2017-10-11T16:04:28.000Z,2024-12-05T13:42:44.000Z,,,,,
 https://github.com/manuvarkey/gelectrical,manuvarkey,False,79,7,Python,gpl-3.0,2021-01-18T13:25:54.000Z,2025-05-28T06:49:15.000Z,0.0,1,,,
 https://git.tu-berlin.de/genesysmod/genesys-mod-public,genesysmod,,0,0,,apache-2.0,2020-12-30T13:31:43.733Z,2022-11-29T08:33:11.413Z,,,,,
-https://github.com/genxproject/genx,GenXProject,False,310,136,Julia,gpl-2.0,2021-05-19T17:57:57.000Z,2025-05-23T03:14:29.000Z,0.6866359447004609,32,0.0,0.0,2025-02-05
+https://github.com/genxproject/genx.jl,GenXProject,False,310,136,Julia,gpl-2.0,2021-05-19T17:57:57.000Z,2025-05-23T03:14:29.000Z,0.6866359447004609,32,8.0,0.0,2025-02-01
 https://github.com/grid2op/grid2op,Grid2op,False,350,128,Python,mpl-2.0,2019-10-10T17:04:46.000Z,2025-06-02T09:16:23.000Z,0.31619433198380564,31,1097.0,16.0,2025-04-15
 https://github.com/sanpen/gridcal,SanPen,False,450,103,MATLAB,mpl-2.0,2016-01-13T15:40:10.000Z,2025-06-05T15:48:54.000Z,0.384423076923077,44,4943.0,1.0,2025-06-04
+https://github.com/arras-energy/gridlabd,arras-energy,False,10,5,C++,other,2023-09-22T17:41:24.000Z,2025-05-25T14:21:06.000Z,0.07692307692307687,2,,,
 https://github.com/gridoptics/gridpack,GridOPTICS,False,52,23,C++,,2014-07-22T21:01:57.000Z,2025-05-10T12:53:36.000Z,0.8,51,,,
 https://github.com/blue-marble/gridpath,blue-marble,False,106,42,Python,apache-2.0,2016-08-12T18:13:28.000Z,2025-05-31T09:35:32.000Z,0.22346368715083798,12,123.0,0.0,2025-04-30
 https://github.com/arthurrinaldi/grimsel,arthurrinaldi,False,1,3,Python,bsd-2-clause,2019-04-16T08:22:45.000Z,2023-11-28T15:48:04.000Z,,,,,
@@ -78,7 +78,7 @@ https://github.com/highres-model/highres-europe,highRES-model,False,5,3,GAMS,mit
 https://github.com/hope-model-project/hope,HOPE-Model-Project,False,9,3,Julia,mit,2023-12-03T01:30:51.000Z,2025-05-31T17:53:36.000Z,,,,,
 https://github.com/nrel/hopp,NREL,False,29,59,Python,bsd-3-clause,2019-11-04T17:13:57.000Z,2025-05-28T16:32:28.000Z,0.7818930041152263,34,328.0,1.0,2025-05-01
 https://github.com/idaholab/hybrid,idaholab,False,35,23,C,apache-2.0,2021-02-10T20:17:48.000Z,2025-04-26T15:35:07.000Z,0.8093525179856115,16,,,
-https://github.com/nrel/hybridbosse,NREL,False,2,1,Python,bsd-3-clause,2021-06-25T17:14:05.000Z,2024-11-26T15:06:18.000Z,,,,,
+https://github.com/nrel/hybridbosse,NREL,False,2,6,Python,bsd-3-clause,2021-06-25T17:14:05.000Z,2024-11-26T15:06:18.000Z,,,,,
 https://github.com/lukasbarner/hydrogenmod.jl,LukasBarner,False,4,0,Julia,apache-2.0,2024-02-05T10:20:00.000Z,2025-04-01T14:07:21.000Z,,,,,
 https://github.com/idaes/idaes-pse,IDAES,False,250,263,Python,other,2019-02-01T01:12:51.000Z,2025-05-28T21:49:27.000Z,0.7555807182141702,81,16286.0,8.0,2025-03-06
 https://gitlab.com/sesit/idea,sesit,False,1,0,,mit,2023-10-26T17:37:59.133Z,2024-09-02T17:36:52.566Z,,,,,
@@ -119,7 +119,7 @@ https://github.com/kth-desa/onsset-2016,KTH-dESA,False,24,18,Python,other,2016-0
 https://github.com/epgoxford/open,EPGOxford,False,64,26,Python,apache-2.0,2019-12-02T18:54:17.000Z,2025-05-31T12:42:46.000Z,,,,,
 https://github.com/fabmid/open-energy-cell-simulation,fabmid,False,4,1,Python,other,2020-09-03T14:41:48.000Z,2025-02-13T12:16:22.000Z,,,,,
 https://github.com/dpinney/omf,dpinney,False,119,66,Python,gpl-2.0,2012-09-17T17:15:57.000Z,2025-06-05T05:04:53.000Z,0.5673228912200029,65,,,
-https://github.com/opencemorg/opencem,openCEMorg,False,19,5,Python,gpl-3.0,2018-11-13T03:41:55.000Z,2025-05-21T02:21:42.000Z,0.4935483870967742,9,0.0,0.0,2021-06-02
+https://github.com/opencemorg/opencem,openCEMorg,False,19,6,Python,gpl-3.0,2018-11-13T03:41:55.000Z,2025-05-21T02:21:42.000Z,0.4935483870967742,9,0.0,0.0,2021-06-02
 https://github.com/epri-dev/opender,epri-dev,False,61,24,Python,other,2022-04-26T22:09:28.000Z,2025-04-16T06:49:02.000Z,0.05607476635514019,2,1001.0,1.0,2025-04-15
 https://github.com/epri-dev/opendss-c,epri-dev,False,4,4,C++,,2024-07-16T19:17:21.000Z,2025-04-17T01:20:02.000Z,,,,,
 https://github.com/openipsl/openipsl,OpenIPSL,False,92,56,Modelica,bsd-3-clause,2016-04-16T09:09:47.000Z,2025-06-03T23:35:41.000Z,0.6554441260744985,29,,,
@@ -128,9 +128,9 @@ https://github.com/iit-energysystemmodels/opensduc,IIT-EnergySystemModels,False,
 https://github.com/iit-energysystemmodels/opentepes,IIT-EnergySystemModels,False,46,24,Python,agpl-3.0,2020-07-24T21:11:41.000Z,2025-06-05T19:16:25.000Z,0.4238464679461005,8,0.0,0.0,2022-02-09
 https://github.com/tum-ewk/opentumflex,tum-ewk,False,26,15,Python,gpl-3.0,2019-10-04T13:00:54.000Z,2025-01-14T03:00:49.000Z,,,,,
 https://github.com/spf-ost/optihood,SPF-OST,False,3,7,HTML,mit,2021-05-25T08:18:43.000Z,2025-06-02T15:00:53.000Z,0.7618453865336658,23,,,
-https://github.com/osemosys/osemosys,OSeMOSYS,False,166,104,,apache-2.0,2016-10-03T08:53:55.000Z,2025-05-15T18:11:08.000Z,0.5741935483870968,14,,,
+http://github.com/osemosys/osemosys,OSeMOSYS,False,166,104,,apache-2.0,2016-10-03T08:53:55.000Z,2025-05-15T18:11:08.000Z,0.5741935483870968,14,,,
 https://github.com/e2niee/pandapower,e2nIEE,False,978,507,Python,other,2017-01-12T13:27:53.000Z,2025-06-03T14:56:55.000Z,0.846798115512127,156,47081.0,75.0,2025-05-26
-https://github.com/nrel/paraemt_public,NREL,False,70,26,Python,bsd-3-clause,2023-06-08T12:43:21.000Z,2025-05-24T02:33:39.000Z,,,,,
+https://github.com/nrel/paraemt_public,NREL,False,70,27,Python,bsd-3-clause,2023-06-08T12:43:21.000Z,2025-05-24T02:33:39.000Z,,,,,
 https://github.com/richard-weinhold/pomato,richard-weinhold,False,80,18,Python,other,2020-05-12T14:42:17.000Z,2025-05-01T14:14:01.000Z,0.023809523809523836,4,,,
 https://github.com/powergridmodel/power-grid-model,PowerGridModel,False,170,38,C++,mpl-2.0,2022-01-20T12:31:31.000Z,2025-06-05T07:21:56.000Z,0.7106256206554121,32,0.0,0.0,2024-11-08
 https://github.com/juliaenergy/powerdynamics.jl,JuliaEnergy,False,110,32,Julia,gpl-3.0,2018-10-10T13:31:25.000Z,2025-04-26T09:28:49.000Z,0.7194029850746269,21,6.0,0.0,2024-01-23
@@ -141,14 +141,14 @@ https://github.com/nrel-sienna/powersimulations.jl,NREL-Sienna,False,293,70,Juli
 https://github.com/nrel-sienna/powersimulationsdynamics.jl,NREL-Sienna,False,200,52,Julia,bsd-3-clause,2020-07-16T19:36:16.000Z,2025-06-03T12:52:57.000Z,0.33123312331233123,16,29.0,0.0,2024-06-05
 https://github.com/ie3-institute/powersystemdatamodel,ie3-institute,False,21,5,Java,bsd-3-clause,2020-01-23T16:00:59.000Z,2025-06-05T04:32:06.000Z,0.7706333973128598,32,0.0,7.0,2025-05-08
 https://github.com/nrel-sienna/powersystemsinvestments.jl,NREL-Sienna,False,18,12,Julia,bsd-3-clause,2024-02-29T21:28:33.000Z,2025-05-01T06:57:45.000Z,,,,,
-https://github.com/kamal0013/pownet,Critical-Infrastructure-Systems-Lab,False,86,27,Python,mit,2019-09-27T03:03:01.000Z,2025-06-05T17:04:22.000Z,0.5161290322580645,8,,,
+https://github.com/critical-infrastructure-systems-lab/pownet,Critical-Infrastructure-Systems-Lab,False,86,27,Python,mit,2019-09-27T03:03:01.000Z,2025-06-05T17:04:22.000Z,0.5161290322580645,8,91.0,0.0,2025-06-03
+https://github.com/powsybl/powsybl-core,powsybl,False,134,45,Java,mpl-2.0,2017-09-29T14:51:18.000Z,2025-06-05T08:12:42.000Z,0.7927736450584485,113,0.0,47.0,2025-05-06
 https://github.com/powsybl/powsybl-open-loadflow,powsybl,False,56,9,Java,mpl-2.0,2019-10-01T13:48:47.000Z,2025-05-31T12:38:31.000Z,0.5525751072961373,39,0.0,20.0,2025-05-06
 https://github.com/nrel/pras,NREL,False,59,22,Julia,,2019-05-29T16:39:15.000Z,2025-05-28T11:26:40.000Z,,,88.0,0.0,2025-03-01
 https://github.com/prep-next/prep-shot,PREP-NexT,False,422,19,Jupyter Notebook,gpl-3.0,2022-05-29T12:03:21.000Z,2025-06-04T02:19:49.000Z,0.6205128205128205,6,0.0,0.0,2024-07-22
 https://github.com/yanzhaochang/psatools-python,yanzhaochang,False,3,2,Python,apache-2.0,2021-03-27T13:29:00.000Z,2024-10-08T17:54:21.000Z,,,,,
 https://github.com/thales1330/psp,Thales1330,False,62,16,C++,gpl-2.0,2016-07-27T18:51:54.000Z,2025-06-05T11:36:54.000Z,0.004357298474945481,2,,,
 https://github.com/ames-market/psst,ames-market,False,41,26,Jupyter Notebook,other,2016-05-09T03:47:40.000Z,2025-05-28T10:23:10.000Z,,,,,
-https://git.rwth-aachen.de/acs/public/simulation/pycity_scheduling,acs,,6,2,,mit,2018-12-11T11:47:16.437Z,2025-05-29T16:37:46.647Z,,,,,
 https://github.com/andrewlyden/pylesa,andrewlyden,False,16,11,Python,mit,2020-05-04T10:45:30.000Z,2025-05-13T10:12:00.000Z,,,,,
 https://github.com/kiedanski/pymarket,kiedanski,False,27,6,Python,mit,2019-06-19T09:25:16.000Z,2024-09-30T04:56:16.000Z,,,,,
 https://github.com/sogno-platform/pymfm,sogno-platform,False,4,4,Python,apache-2.0,2023-09-26T15:17:38.000Z,2024-11-30T03:10:47.000Z,,,21.0,0.0,2023-10-20
@@ -163,6 +163,7 @@ https://github.com/ahalev/python-microgrid,ahalev,False,80,8,Python,lgpl-3.0,202
 https://github.com/nrel/reeds-2.0,NREL,False,151,66,Python,bsd-3-clause,2019-05-28T15:57:01.000Z,2025-06-05T16:14:18.000Z,0.6538461538461539,16,0.0,0.0,2025-06-05
 https://github.com/ipese/reho,IPESE,False,7,9,Python,apache-2.0,2023-06-19T13:01:14.000Z,2025-05-28T12:43:53.000Z,0.6118721461187215,8,147.0,0.0,2025-03-24
 https://github.com/breakthrough-energy/reise.jl,Breakthrough-Energy,False,31,22,Julia,mit,2020-01-17T22:41:38.000Z,2025-05-06T12:53:59.000Z,0.47042253521126765,10,0.0,0.0,2021-06-14
+https://gitlab.com/dlr-ve/esy/remix/framework,dlr-ve,False,10,0,,bsd-3-clause,2022-11-21T10:27:58.323Z,2025-03-05T10:57:54.254Z,,,,,
 https://github.com/fraukewiese/renpass,fraukewiese,False,18,10,R,gpl-3.0,2017-03-12T19:40:49.000Z,2024-01-18T10:03:23.000Z,,,,,
 https://github.com/nrel/reopt.jl,NREL,False,29,35,Julia,apache-2.0,2022-01-26T15:25:59.000Z,2025-05-30T20:01:59.000Z,0.7162581981360028,15,18.0,0.0,2025-05-01
 https://github.com/nrel/reopt_api,NREL,False,103,57,Python,other,2018-12-17T21:24:59.000Z,2025-06-06T20:20:20.000Z,0.7556686719111523,22,0.0,0.0,2025-04-29
