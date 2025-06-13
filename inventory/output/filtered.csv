@@ -68,7 +68,7 @@ energy_system_simulation_and_optimization,https://github.com/akkudoktor-eos/eos,
 energy_transition_engine,https://github.com/quintel/etengine,"Energy Transition Engine,etengine",Calculation engine for the Energy Transition Model.,"opensustain-tech,pre-compiled",
 energymodelsbase_jl,https://github.com/energymodelsx/energymodelsbase.jl,EnergyModelsBase.jl,,pre-compiled,
 energynumbers_balancing,https://github.com/rcuk-cee/energynumbers-balancing,EnergyNumbers-Balancing,"The model uses historic demand data, and historic (half-)hourly capacity factors for PV and wind, to simulate the extent to which demand could be met by some combination of wind, PV and storage. Please do email me if you'd like to request early access to the source, and mention your github username. source, and mention your github username.",openmod,
-energyrt,https://github.com/optimal2050/energyrt,"EnergyRt,energyRt",Making Energy Systems Modeling as simple as a linear regression in R.,"lf-energy-landscape,openmod",
+energyrt,https://github.com/optimal2050/energyrt,"EnergyRt,energyRt",Making Energy Systems Modeling as simple as a linear regression in R.,"lf-energy-landscape,openmod,opensustain-tech",
 energyscope,https://github.com/energyscope/energyscope,EnergyScope,"EnergyScope is open-source model for the strategic energy planning
 of urban and regional energy systems.
 
